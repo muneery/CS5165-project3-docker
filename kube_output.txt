@@ -1,0 +1,3 @@
+NAME                                   READY   STATUS      RESTARTS      AGE
+project3-deployment-6b98475768-2ljw8   0/1     Completed   2 (25s ago)   26s
+project3-deployment-6b98475768-skkh9   0/1     Completed   2 (25s ago)   26s
